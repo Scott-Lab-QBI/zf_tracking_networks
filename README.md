@@ -1,4 +1,4 @@
-This repository is a to the project and preprint:
+This repository is a companion to the project and preprint:
 
 **Scholz LA, Mancienne T, Stednitz SJ, Scott EK, Lee CCY** (2025) *Plug-and-Play automated behavioral tracking of zebrafish larvae with DeepLabCut and SLEAP: pre-trained networks and datasets of annotated poses.* bioRxiv DOI: [10.1101/2025.06.04.657938](https://doi.org/10.1101/2025.06.04.657938) 
 
