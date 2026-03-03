@@ -10,5 +10,5 @@ The exported models can be used within Bonsai for offline and real-time tracking
 
 We also provide the annotated datasets used to train and compare the models, which can be downloaded from: 
 
-**Scholz LA, Mancienne T, Stednitz S, Scott E, Lee C** (2025) *Datasets of zebrafish larvae poses - annotated frames and videos.* Dataset. DOI: [10.26188/29276009.v1](https://doi.org/10.26188/29276009.v1) 
+**Scholz LA, Mancienne T, Stednitz S, Scott E, Lee CCY** (2025) *Datasets of zebrafish larvae poses - annotated frames and videos.* Dataset. DOI: [10.26188/29276009.v1](https://doi.org/10.26188/29276009.v1) 
 
